@@ -26,4 +26,8 @@ mnist_project/
 
 (2) Choose to load the MNIST dataset (True) or User Dataset (False) in frontend.py
 
-(3) Run 'python frontend.py' to get started
+(3) Set-ExecutionPolicy Unrestricted -Scope Process
+
+(4) env\Scripts\Activate.ps1
+
+(5) Run 'python frontend.py' to get started
