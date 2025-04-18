@@ -39,4 +39,4 @@ For PowerShell:
 env\Scripts\Activate.ps1
 
 
-(5) Run 'python mnist_project/frontend.py' to get started
+(5) Run 'python frontend.py' to get started
