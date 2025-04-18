@@ -22,12 +22,21 @@ mnist_project/
 
 └── requirements.txt
 
-(1) Install requirements with 'pip install -r requirements.txt'
+(1) Install requirements with 
+
+pip install -r requirements.txt
 
 (2) Choose to load the MNIST dataset (True) or User Dataset (False) in frontend.py
 
-(3) Set-ExecutionPolicy Unrestricted -Scope Process
+(3) 
 
-(4) env\Scripts\Activate.ps1
+cd mnist_project
 
-(5) Run 'python frontend.py' to get started
+Set-ExecutionPolicy Unrestricted -Scope Process
+
+For PowerShell:
+
+env\Scripts\Activate.ps1
+
+
+(5) Run 'python mnist_project/frontend.py' to get started
